@@ -14,7 +14,7 @@ I'm **Zehra**, a **Computer Engineer** based in **Istanbul**, currently building
 
 ### ⚙️ Tech Stack
 
-`Python`, `pandas`, `NumPy`, `scikit-learn`, `matplotlib`, `seaborn`
+`Python`, `pandas`, `NumPy`, `scikit-learn`, `matplotlib`, `seaborn`  
 `Jupyter Notebook`, `Git` 
 
 ---
