@@ -31,6 +31,5 @@ I'm **Zehra**, a **Computer Engineer** based in **Istanbul**, currently building
 
 ---
 
-💡 I’m open to collaboration on data science projects, model building challenges, or applied ML research.  
-Feel free to reach out!
+💡 Open to Data Science projects, research collaborations and job opportunities in the field.
 
