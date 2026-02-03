@@ -15,7 +15,7 @@ I'm **Zehra**, a **Computer Engineer** based in Istanbul, currently building a c
 ### 💻 Tech Stack
 
 **Languages & Frameworks:** `Python`, `PyTorch`, `scikit-learn`  
-**Data Manipulation & Viz:** `pandas`, `NumPy`, `matplotlib`, `seaborn`  
+**Data Manipulation & Visualization:** `pandas`, `NumPy`, `matplotlib`, `seaborn`  
 **Tools & Environments:** `Git`, `Jupyter Notebook`, `Linux`
 
 ---
