@@ -1,21 +1,22 @@
 ## 👋 Hello There
 
-I'm **Zehra**, a **Computer Engineer** based in **Istanbul**, currently building a career in **Data Science**, combining my software background with a passion for data-driven problem solving.
+I'm **Zehra**, a **Computer Engineer** based in Istanbul, currently building a career in **Data Science**, combining my software background with a passion for data-driven problem solving.
 
 ---
 
 ### 🔍 Technical Interests
 
+- Computer Vision & Image Processing
 - Machine Learning & Model Evaluation  
 - Data Analysis & Visualization   
-- Computer Vision & Image Processing  
-
+ 
 ---
 
-### ⚙️ Tech Stack
+### 💻 Tech Stack
 
-`Python`, `pandas`, `NumPy`, `scikit-learn`, `matplotlib`, `seaborn`  
-`Jupyter Notebook`, `Git` 
+**Languages & Frameworks:** `Python`, `PyTorch`, `scikit-learn`  
+**Data Manipulation & Viz:** `pandas`, `NumPy`, `matplotlib`, `seaborn`  
+**Tools & Environments:** `Git`, `Jupyter Notebook`, `Linux`
 
 ---
 
@@ -31,5 +32,4 @@ I'm **Zehra**, a **Computer Engineer** based in **Istanbul**, currently building
 
 ---
 
-💡 Open to Data Science projects, research collaborations and job opportunities in the field.
-
+💡*Open to Data Science projects, research collaborations and job opportunities in the field.*
