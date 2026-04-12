@@ -1,31 +1,34 @@
-## 👋 Hello There
+## Hi, I'm Zehra 👋
 
-I'm **Zehra**, Computer Engineer & Graduate Researcher specializing in Data Science. 
-
-I translate complex information into efficient and functional software applying engineering discipline to academic insights.
+Computer Engineer with an MSc in Informatics. I work at the intersection of research and engineering — building ML pipelines that go beyond the experiment stage.
+ 
 
 ---
 
 ### 🔍 Technical Interests
 
-- Machine Learning & Model Evaluation 
-- Computer Vision & Image Processing
-- Data Analysis & Visualization   
+- Machine Learning & Deep Learning
+- Computer Vision & Semantic Segmentation
+- Data Analysis & Experiment Tracking
+- MLOps & Reproducible Pipelines
  
 ---
 
 ### 💻 Tech Stack
 
-- **Engineering:** `Python`, `SQL`, `Docker`, `Poetry`, `Pydantic`, `Linux`
-- **AI & Data:** `PyTorch`, `MLflow`, `DVC`, `scikit-learn`, `OpenCV`, `pandas`, `NumPy`
+| Domain | Tools |
+|--------|-------|
+| **Core** | `Python` · `SQL` · `Git` · `Linux` · `Docker` |
+| **ML & Data** | `PyTorch` · `OpenCV` · `scikit-learn` · `MLflow` · `pandas` · `NumPy` |
+| **Dev** | `Poetry` · `Pydantic` · `LaTeX` |
 
 ---
 
 ### 📫 Connect With Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/zehramervegul" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://medium.com/@zmgul" target="_blank"><img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green" alt="medium" /></a> 
+<a href="https://linkedin.com/in/zmgul" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://medium.com/@zmgul" target="_blank"><img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green" alt="medium" /></a> 
 
 ---
 
-💡*Open to data science projects, research collaborations and job opportunities.*
+💡 *Open to AI/ML engineering roles, research collaborations and applied data science projects.*
