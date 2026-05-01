@@ -1,8 +1,7 @@
-## Hi, I'm Zehra 👋
+## Hi, I'm Zehra
 
 Computer Engineer with an MSc in Informatics. I work at the intersection of research and engineering — building ML pipelines that go beyond the experiment stage.
  
-
 ---
 
 ### 🔍 Technical Interests
