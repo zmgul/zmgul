@@ -1,19 +1,20 @@
-## Hi, I'm Zehra
+I'm **Zehra**, Computer Engineer with an MSc in Informatics.
 
-Computer Engineer with an MSc in Informatics. I work at the intersection of research and engineering — building ML pipelines that go beyond the experiment stage.
- 
+🎓 **Thesis:** [*Woodland Segmentation in High-Resolution Aerial Imagery Using Few-Shot Learning*](https://github.com/zmgul/few-shot-woodland-segmentation)
+
+Working at the intersection of machine learning research and software engineering, developing models with production in mind.
+
 ---
 
-### 🔍 Technical Interests
+### Technical Interests
 
-- Machine Learning & Deep Learning
-- Computer Vision & Semantic Segmentation
-- Data Analysis & Experiment Tracking
-- MLOps & Reproducible Pipelines
- 
+- Machine Learning & Model Evaluation
+- Computer Vision & Remote Sensing
+- Data Analysis & Visualization
+
 ---
 
-### 💻 Tech Stack
+### Toolkit
 
 | Domain | Tools |
 |--------|-------|
@@ -23,11 +24,11 @@ Computer Engineer with an MSc in Informatics. I work at the intersection of rese
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/zmgul" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://medium.com/@zmgul" target="_blank"><img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green" alt="medium" /></a> 
+<a href="https://linkedin.com/in/zehramervegul" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://medium.com/@zmgul" target="_blank"><img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green" alt="medium" /></a>&nbsp;<a href="https://huggingface.co/zmgul" target="_blank"><img src="https://img.shields.io/badge/hugging%20face-%23FFD21E.svg?&style=for-the-badge&logoColor=black" alt="huggingface" /></a> 
 
 ---
 
-💡 *Open to AI/ML engineering roles, research collaborations and applied data science projects.*
+*Open to data science projects, research collaborations and job opportunities.*
