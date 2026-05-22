@@ -8,9 +8,9 @@ Working at the intersection of machine learning research and software engineerin
 
 ### Technical Interests
 
-- Machine Learning & Model Evaluation
+- Deep Learning & Model Evaluation
+- MLOps & Reproducible Pipelines
 - Computer Vision & Remote Sensing
-- Data Analysis & Visualization
 
 ---
 
